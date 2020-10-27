@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 4846,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copy-files-from-a-local-folder-to-a-windows-azure-blob-storage-container/master/CopyFilesToAzureStorageContainer.ps1",
+    "DownloadCount": 8183,
+    "Id": "Copy-Files-from-a-Local-0b8de545",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 114,
+    "RaterCount": 8,
+    "Rating": 4.6,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Copies files (in parallel) from a local folder to a named Azure storage blob container.  The copy operation can optionally recurse the local folder using the -Recurse switch.  The storage container is assumed to already exist unless the -CreateContainer switch is provided.",
+    "Title": "Copy Files from a Local Folder to a Windows Azure Blob Storage Container",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/copy-files-from-a-local-folder-to-a-windows-azure-blob-storage-container",
+    "UserTags": "backup"
+}
